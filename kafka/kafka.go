@@ -3,6 +3,8 @@
 // its kafka
 package kafka
 
-func Kafka() {
+import "fmt"
 
+func Kafka() {
+	fmt.Println("hi to kafka")
 }
